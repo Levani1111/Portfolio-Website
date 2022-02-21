@@ -6,7 +6,27 @@
   list-style: none;
 }
 
+:root {
+  --color-primary: #191d2b;
+  --color-secondary: #f57106;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray-0: #f8f8f8;
+  --color-gray-1: #dbe1e8;
+  --color-gray-2: #b2becd;
+  --color-gray-3: #6c7989;
+  --color-gray-4: #454e56;
+  --color-gray-5: #2a2e35;
+  --color-gray-6: #12181b;
+  --br-sm-2: 14px;
+}
+
 body {
+  background-color: var(--color-primary);
   font-family: 'Poppins', sans-serif;
+  font-size: 1.1rem;
+  color: var(--color-white);
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
 }
 /*# sourceMappingURL=styles.css.map */
