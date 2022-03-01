@@ -182,7 +182,7 @@ section {
   display: grid;
   -ms-grid-columns: (1fr)[2];
       grid-template-columns: repeat(2, 1fr);
-  height: 100%;
+  min-height: 100vh;
 }
 
 .header-content .left-header {
@@ -205,8 +205,8 @@ section {
   left: 0;
   top: 0;
   z-index: -1;
-  -webkit-clip-path: polygon(0 0, 73% 0, 100% 100%, 0% 100%);
-          clip-path: polygon(0 0, 73% 0, 100% 100%, 0% 100%);
+  -webkit-clip-path: polygon(0 0, 46% 0, 79% 100%, 0% 100%);
+          clip-path: polygon(0 0, 46% 0, 79% 100%, 0% 100%);
 }
 
 .header-content .left-header .image {

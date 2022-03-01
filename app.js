@@ -30,6 +30,7 @@ function PageTransitions() {
             element.classList.add('active');
         }
     })
+    
 }
 
 PageTransitions() // call function
