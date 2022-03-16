@@ -2,16 +2,16 @@
 
 This is a portfolio website for a software developer.
 
-#### Technologies Used
+### Technologies Used
 
-* HTML5 
-* SCSS 
-* JavaScript
-* ligh-mode with SCSS & JavaScript
+- HTML5
+- SCSS
+- JavaScript
+- ligh-mode with SCSS & JavaScript
 
-#### Deployment on netlify
+### Deployment on netlify
 
- [Portfolio Website](https://portfolio-software-developer.netlify.app/)
+[Portfolio Website](https://portfolio-software-developer.netlify.app/)
 
 <hr>
 
